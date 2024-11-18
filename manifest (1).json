@@ -1,0 +1,15 @@
+{
+  "short_name": "BrianCal PWA",
+  "name": "BrianCal PWA",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "id": "BrianCal PWA",
+  "description": "The best calculator for complex mathematical operations",
+  "display_override": [
+    "browser",
+    "fullscreen",
+    "minimal-ui",
+    "standalone",
+    "window-controls-overlay"
+  ]
+}
